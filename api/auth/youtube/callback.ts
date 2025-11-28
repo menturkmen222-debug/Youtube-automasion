@@ -1,4 +1,4 @@
-// pages/api/auth/youtube/callback.ts
+// pages/api/auth/youtube/c allback.ts
 import { NextApiRequest, NextApiResponse } from 'next';
 import { createClient } from '@supabase/supabase-js';
 
