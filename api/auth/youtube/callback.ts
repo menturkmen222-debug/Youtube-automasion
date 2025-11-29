@@ -9,7 +9,7 @@ const supabase = createClient(
 
 const CLIENT_ID = process.env.GOOGLE_CLIENT_ID!;
 const CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET!;
-const DEPLOY_URL = 'https://youtube-auto-upload.vercel.app';
+const DEPLOY_URL = 'https://automasion-tm.vercel.app';
 const REDIRECT_URI = `${DEPLOY_URL}/api/auth/youtube/callback`;
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
