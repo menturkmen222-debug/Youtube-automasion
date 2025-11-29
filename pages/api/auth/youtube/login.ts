@@ -1,4 +1,4 @@
-// pages/api/auth/youtube/login.ts
+// pages/api /auth/youtube/login.ts
 import { NextApiRequest, NextApiResponse } from "next";
 
 const CLIENT_ID = process.env.GOOGLE_CLIENT_ID!;
