@@ -1,4 +1,4 @@
-// Oddiy test sahifa — deploy ishlashini tekshirish uchun
+// Oddiy test sahifa — deploy ishlashini  tekshirish uchun
 export default function Home() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
