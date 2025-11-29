@@ -1,4 +1,3 @@
-
 // Oddiy test sahifa — deploy ishlashini tekshirish uchun
 export default function Home() {
   return (
